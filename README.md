@@ -1,4 +1,4 @@
-# Queue Mangaement system
+# Queue Management system
 
 This application is a virtual Queue Management system.  
 Link to the app: https://immense-basin-10375.herokuapp.com/
